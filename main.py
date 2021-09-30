@@ -1,0 +1,1 @@
+# ---------> SOMA DE TODOS OS NÚMEROS INTEIROS ATÉ O NÚMERO ESCOLHIDO <---------
